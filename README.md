@@ -1,2 +1,2 @@
 # Ninja-RP-Devs Test
-One
+NoGodMode
